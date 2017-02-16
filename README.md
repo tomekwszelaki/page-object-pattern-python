@@ -5,7 +5,7 @@ A small proof of concept of using the Page Object pattern with behave
  - Make sure you have python 3.3+ installed
  - Install virtualenv (`pip install virtualenv`)
  - clone this repository
- - change the email address in `config.py` to your own **IMPORTANT** you need to provide an email that has a Ryanair account
+ - change the email address in `config.py` to your own (**IMPORTANT you need to provide an email that is registered on Ryanair**)
  - set an environment variable RYANAIR_PASS_your_email_address (in my case: RYANAIR_PASS_TOMEKWSZELAKI@GMAIL.COM)
  
 All dependencies are included in the virtual environment folder (po_pattern) so you should be ready to go.
