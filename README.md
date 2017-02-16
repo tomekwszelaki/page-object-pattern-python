@@ -11,14 +11,14 @@ A small proof of concept of using the Page Object pattern with behave
 All dependencies are included in the virtual environment folder (po_pattern) so you should be ready to go.
 
 ## Run on Windows
- - cd page-object-pattern-python
- - po_patters\Scripts\activate (to activate the virtualenv)
- - behave
+ 1. cd page-object-pattern-python
+ 2. po_patters\Scripts\activate (to activate the virtualenv)
+ 3. behave
 
  ## Run on Mac (I don't have a mac, so I'm not sure if it works, but it should)
- - cd page-object-pattern-python
- - source bin/activate (to activate the virtualenv)
- - behave
+ 1. cd page-object-pattern-python
+ 2. source bin/activate (to activate the virtualenv)
+ 3. behave
 
 # Test reports
 Test reports are saved in the `/reports` folder. They are xml files (xUnit compliant format).
